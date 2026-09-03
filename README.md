@@ -1,4 +1,4 @@
-# 🚗 Car Sales Analysis Dashboard (Microsoft Excel)
+# Car Sales Analysis Dashboard (Microsoft Excel)
 
 ## 📌 Project Overview
 
